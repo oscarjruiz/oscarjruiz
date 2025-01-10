@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 :computer: **Data Analyst**
 # 💻 Tech Stack:
